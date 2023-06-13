@@ -4,11 +4,7 @@ import './index.css';
 // node_modules\bootstrap\dist\css\bootstrap.min.css
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 // import 'rsuite/dist/rsuite.min.css' 
-// import App from './App';
 import reportWebVitals from './reportWebVitals';
-import HomeDashboard from './Components/HomeDashboard';
-// import SidebarRouter from './Components/Sidebar/SidebarRouter';
-import SidebarRouter from './Components/Sidebar/SidebarRouter';
 import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

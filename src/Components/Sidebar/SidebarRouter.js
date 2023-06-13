@@ -1,7 +1,4 @@
 import React, { useState } from 'react'
-import HomeIcon from '@material-ui/icons/Home';
-import DehazeIcon from '@material-ui/icons/Dehaze'
-// import TimerIcon from '@mui/icons-material/Timer';
 import { NavLink } from 'react-router-dom';
 import './Sidebar.css'
 
